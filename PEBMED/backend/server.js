@@ -25,7 +25,7 @@ const server = app.listen(3001, () => {
     console.log('Servidor rodando na porta 3001');
 });
 
-
+/* COMENTAR APÓ INICIAR O SERVER (INÍCIO COMENTÁRIO) */
 db.sequelize.sync({ force: true }).then(() => {
     console.log('Drop and Resync with { force: true }');
     Paciente.sync().then(() => {
@@ -73,4 +73,4 @@ db.sequelize.sync({ force: true }).then(() => {
         }
     })
 });
-
+/* COMENTAR APÓ INICIAR O SERVER (FIM COMENTÁRIO) */
