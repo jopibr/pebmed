@@ -2,9 +2,9 @@
 
 Hi friends of mine, how you're all doing?
 
-I hope everyboory's ok!
+I hope everybody's ok!
 
-So let's describe what i've done!
+So....let's describe what i've done!
 
 The project sent was developed using following technologies:
 
@@ -24,7 +24,7 @@ Backend:
 - sequelize as ORM
 
 To run the project you just need to
-- Enter in each folder (frontend and backend) run npm install to install dependencies
+- Enter in each folder (frontend and backend) run npm install to install dependencies.
 
 Backend Folder:
 1 - Enter in env.js change the propertie password to your password database and save.
